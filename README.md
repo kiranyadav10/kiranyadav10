@@ -12,7 +12,7 @@
 <p align="left">
 
 
-<a href="https://www.instagram.com/er_yk_102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_yk_102" height="30" width="40" /></a>
+<a href="https://www.instagram.com/er_yk_102/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_yk_102" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kiran-yadav-8251041a3/" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.gcgB3FgJnLBy0o3P-yL82AHaHr?pid=ImgDet&rs=1" alt="er_yk_102" height="30" width="40" /></a>
 
 </p>
